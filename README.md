@@ -79,9 +79,9 @@ img/                           # capturas ilustrativas
 notebooks/
   raster_processing.ipynb      # descarga y composición de teselas de ortofotos, así como su validación y manipulación (sin datos)
 tablas/
-  desfases_por_orto.tsv
-  hallazgos.tsv
   diccionario_datos.tsv
+  r_desfases.tsv
+  v_hallazgos.tsv
 informe_calidad_datos.md
 ```
 
